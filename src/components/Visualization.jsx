@@ -7,7 +7,7 @@ const Visualization = () => {
     <div className="">
       {data.map(item => (
         <div
-          className="bg-white rounded p-4 flex flex-col mt-6 shadow md:shadow-sm md:mt-12 hover:shadow-lg transition duration-500 ease-in-out bg-indigo-300 hover:bg-indigo-500 transform hover:-translate-y-1 hover:text-gray-900 border-l-8 border-blue-900 hover:border-white h-128"
+          className="bg-white rounded p-4 flex flex-col mt-6 shadow md:shadow-sm md:mt-12 hover:shadow-lg transition duration-500 ease-in-out bg-indigo-300 hover:bg-indigo-500 transform hover:-translate-y-1 hover:text-gray-900 border-l-8 border-blue-900 hover:border-white h-128 lg:mx-24"
           key={item.id}
         >
           <img src={item.img} alt={item.alt} className="rounded-lg" />
