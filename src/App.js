@@ -32,6 +32,12 @@ function App() {
                 Barcelona Dataset
               </a>
             </span>
+            <p>
+              This is an open dataset from Open Data BCN portal project. The
+              project started in 2010. The data was from kaggle and it has
+              information of Barcelona's districts. This includes birth, deaths,
+              population, unemployment, immigrants_emigrants, life_expectancy
+            </p>
           </h1>
         </div>
         <div className="mt-4 bg-indigo-100 rounded p-12">
