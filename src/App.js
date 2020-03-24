@@ -72,7 +72,7 @@ function App() {
         </div>
       </div>
       <span className="text-sm text-center block text-gray-600 p-12 mt-2">
-        Copy right &amp;&amp; !
+        Made by Louis Pham
       </span>
     </div>
   );
